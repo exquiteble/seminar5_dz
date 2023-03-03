@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivanluchina/Desktop/seminar5/seminar5.csproj",
-      "projectName": "seminar5",
-      "projectPath": "/Users/ivanluchina/Desktop/seminar5/seminar5.csproj",
+      "projectUniqueName": "/Users/ivanluchina/Desktop/seminar5/task34/task34.csproj",
+      "projectName": "task34",
+      "projectPath": "/Users/ivanluchina/Desktop/seminar5/task34/task34.csproj",
       "packagesPath": "/Users/ivanluchina/.nuget/packages/",
-      "outputPath": "/Users/ivanluchina/Desktop/seminar5/obj/",
+      "outputPath": "/Users/ivanluchina/Desktop/seminar5/task34/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ivanluchina/.nuget/NuGet/NuGet.Config"
