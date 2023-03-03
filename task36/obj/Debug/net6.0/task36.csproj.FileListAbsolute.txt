@@ -1,0 +1,15 @@
+/Users/ivanluchina/Desktop/seminar5/task36/bin/Debug/net6.0/task36
+/Users/ivanluchina/Desktop/seminar5/task36/bin/Debug/net6.0/task36.deps.json
+/Users/ivanluchina/Desktop/seminar5/task36/bin/Debug/net6.0/task36.runtimeconfig.json
+/Users/ivanluchina/Desktop/seminar5/task36/bin/Debug/net6.0/task36.dll
+/Users/ivanluchina/Desktop/seminar5/task36/bin/Debug/net6.0/task36.pdb
+/Users/ivanluchina/Desktop/seminar5/task36/obj/Debug/net6.0/task36.csproj.AssemblyReference.cache
+/Users/ivanluchina/Desktop/seminar5/task36/obj/Debug/net6.0/task36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanluchina/Desktop/seminar5/task36/obj/Debug/net6.0/task36.AssemblyInfoInputs.cache
+/Users/ivanluchina/Desktop/seminar5/task36/obj/Debug/net6.0/task36.AssemblyInfo.cs
+/Users/ivanluchina/Desktop/seminar5/task36/obj/Debug/net6.0/task36.csproj.CoreCompileInputs.cache
+/Users/ivanluchina/Desktop/seminar5/task36/obj/Debug/net6.0/task36.dll
+/Users/ivanluchina/Desktop/seminar5/task36/obj/Debug/net6.0/refint/task36.dll
+/Users/ivanluchina/Desktop/seminar5/task36/obj/Debug/net6.0/task36.pdb
+/Users/ivanluchina/Desktop/seminar5/task36/obj/Debug/net6.0/task36.genruntimeconfig.cache
+/Users/ivanluchina/Desktop/seminar5/task36/obj/Debug/net6.0/ref/task36.dll
